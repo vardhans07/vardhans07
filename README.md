@@ -4,7 +4,7 @@
 <img align="right" alt="dev" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 
 - 📫 How to reach me **rajpatil030797@gmail.com**
-- 📫 😄 Pronouns: **He/Him**
+- 😄 Pronouns: **He/Him**
 <p align="left">I'm currently studying towards a bachelor's degree in Electronics and Telecommunication at Savitribai Phule University Pune . Having a genuine interest in Computer Programming has led me to be proactive in furthering my education with various courses and topic lecturers. I am looking to build my experience in the working environment through internships and completion of a variety of available business and problem-solving challenges.</p>
 
 <h3 align="left">Languages and Tools:</h3>
