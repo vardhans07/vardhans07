@@ -5,7 +5,9 @@
 
 - 📫 How to reach me: **rajpatil030797@gmail.com**
 - 😄 Pronouns: **He/Him**
-<p align="left"><b>I'm currently studying towards a bachelor's degree in Electronics and Telecommunication at Savitribai Phule University Pune . Having a genuine interest in Computer Programming has led me to be proactive in furthering my education with various courses and topic lecturers.</b></p>
+<p align="left"><b>hi, i'm Rajvardhan, a passionate self-taught developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience and code quality of the things I build.
+
+i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.</b></p>
 
 
 <h3 align="left">Languages:</h3>
