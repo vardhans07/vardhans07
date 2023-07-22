@@ -4,7 +4,7 @@
 <img align="right" alt="dev" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
 
 - 📫 How to reach me: **rajpatil030797@gmail.com**
-- 😄 Pronouns: **He/Him**
+  
 <p align="left"><b> I'm Rajvardhan, a passionate self-taught developer from india. my passion for software lies with dreaming up ideas and making them come true with elegant interfaces. i take great care in the experience and code quality of the things I build.
 
 </b></p>
