@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi, I'm RAJVARDHAN Great to see you here! 👋</h1>
 <h3 align="center">A Passionate developer from India</h3>
-<img align="right" alt="dev" width="400" src="https://www.pixelcrayons.com/blog/wp-content/uploads/2021/08/great-coder.gif">
+<img align="right" alt="dev" width="400" src="https://images.app.goo.gl/oKzD3BAwHpumpnEo6">
 
 - 📫 How to reach me: **rajpatil030797@gmail.com**
   
