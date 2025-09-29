@@ -1,5 +1,4 @@
 <h1 align="center">Hi, I'm RAJVARDHAN! Great to see you here! 👋</h1>
-<h3 align="center">A Passionate developer from India</h3>
 
 
 
