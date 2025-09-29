@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm RAJVARDHAN! Great to see you here! 👋</h1>
 <h3 align="center">A Passionate developer from India</h3>
 
-- 📫 How to reach me: **rajpatil030797@gmail.com**
+
 
 <p align="left"><b>I'm Rajvardhan, a passionate self-taught developer from India. My passion for software lies in dreaming up ideas and making them come true with elegant interfaces. I take great care in the experience and code quality of the things I build.</b></p>
 
