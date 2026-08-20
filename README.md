@@ -36,9 +36,6 @@
 
 <h3 align="left">Technologies & Frameworks:</h3>
 <p>
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
-  </a>
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   </a>
