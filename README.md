@@ -53,3 +53,15 @@
   </a>
 </p>
 
+
+---
+
+### 💻 Tech Stack & Tools
+
+* **AI & Agents:** LangChain, LlamaIndex, Spring AI, LLM Integration, Agentic Workflows
+* **Languages & Core:** Java, Python, TypeScript, SQL, Bash
+* **Cloud & DevOps:** Kubernetes, Docker, Terraform, CI/CD, Cloud-Native Architecture
+* **Security & Reliability:** Open Source Security, Hardening, Production Observability
+
+---
+
