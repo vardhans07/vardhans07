@@ -53,7 +53,7 @@
   </a>
 </p>
 
-</p>
+
 
 <h3 align="left">Cloud & DevOps:</h3>
 <p>
