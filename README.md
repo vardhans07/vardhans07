@@ -22,7 +22,6 @@
 
 <h3 align="left">Databases:</h3>
 <p>
-  <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> 
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
   </a>
@@ -36,8 +35,8 @@
 
 <h3 align="left">Technologies & Frameworks:</h3>
 <p>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -45,9 +44,7 @@
   <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   </a>
-  <a href="https://spark.apache.org/" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/PySpark-FF6F00?style=for-the-badge&logo=apachespark&logoColor=white" alt="PySpark" />
-  </a>
+
 </p>
 
 
