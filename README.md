@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm RAJVARDHAN! Great to see you here! 👋</h1>
-<h3>🚀 <u>Reach Me Out </u></h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rajvardhan-patil-16b673215)
 
 
 <p align="left"><b> Always learning, always building. I care about how things work and how they feel to real people. It’s not about being perfect it’s about getting better every time.</b></p>
