@@ -58,4 +58,16 @@
 
 
 
+### 🚀 Merged Open Source Contributions
+
+* **[PrismorSec/prismor#460](https://github.com/PrismorSec/prismor/pull/460)** — `fix(cloaking)`: Prevent shell injection during secret substitution in decloak-exec (#457)
+* **[PrismorSec/prismor#458](https://github.com/PrismorSec/prismor/pull/458)** — `fix(proxy)`: Redact upstream HTTP 4xx/5xx error bodies (#451)
+* **[PrismorSec/prismor#445](https://github.com/PrismorSec/prismor/pull/445)** — `feat`: Expose prometheus metrics and ship grafana dashboard (#280)
+* **[PrismorSec/prismor#440](https://github.com/PrismorSec/prismor/pull/440)** — `fix(cloaking)`: Allow path-prefixed prismer binary in env-guard
+* **[roboflow/supervision#2596](https://github.com/roboflow/supervision/pull/2596)** — `fix`: Handle conflicting source_image metadata in InferenceSlicer
+* **[ayghri/i-have-adhd#174](https://github.com/ayghri/i-have-adhd/pull/174)** — Update Zed's Agent description in INSTALL.md
+* **[usestrix/strix#1116](https://github.com/usestrix/strix/pull/1116)** — `fix(report)`: Raise RuntimeError on non-object run.json (fixes #1109)
+
+
+
 
