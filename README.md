@@ -62,6 +62,7 @@
 
 | Project | Pull Request | Impact / Focus | Status |
 | :--- | :--- | :--- | :--- |
+| **PrismorSec/prismor** | [#478](https://github.com/PrismorSec/prismor/issues/478#event-32245836668) perf: remote policy is signature-verified and parsed ~9× per hook call | `Performance` `Enterprise` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | **PrismorSec/prismor** | [#460](https://github.com/PrismorSec/prismor/pull/460) Prevent shell injection in secret substitution | `Security` `Fix` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | **PrismorSec/prismor** | [#458](https://github.com/PrismorSec/prismor/pull/458) Redact upstream HTTP 4xx/5xx error bodies | `Security` `Proxy` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | **PrismorSec/prismor** | [#445](https://github.com/PrismorSec/prismor/pull/445) Expose Prometheus metrics & ship Grafana dashboard | `DevOps` `Feature` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
