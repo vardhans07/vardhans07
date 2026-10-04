@@ -1,8 +1,7 @@
 <h1 align="center">Hi, I'm RAJVARDHAN! Great to see you here! 👋</h1>
 
-
-
 <p align="left"><b> Always learning, always building. I care about how things work and how they feel to real people. It’s not about being perfect it’s about getting better every time.</b></p>
+
 
 <!-- This is where the new GIF is added with the same alignment and width -->
 <img align="right" alt="dev" width="500" src="https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif" style="margin-top: 20px; margin-left: 20px;" />
@@ -71,5 +70,19 @@
 | **usestrix/strix** | [#1116](https://github.com/usestrix/strix/pull/1116) Raise `RuntimeError` on non-object `run.json` | `Python` `Bugfix` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | **ayghri/i-have-adhd** | [#174](https://github.com/ayghri/i-have-adhd/pull/174) Update Zed's Agent description in `INSTALL.md` | `Docs` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 
+
+### 📈 GitHub Analytics
+
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vardhans07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=2e3440" alt="GitHub Stats" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vardhans07&theme=tokyonight&border=2e3440" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+<div align="left">
+  <!-- Excludes bloated markup files (HTML/CSS) so Python and core backend/scripting languages take prominence -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhans07&layout=compact&theme=tokyonight&border_color=2e3440&hide=html,css" alt="Top Languages" />
+</div>
 
 
