@@ -73,14 +73,14 @@
 
 ### 📈 GitHub Analytics
 
-<div align="left">
+<div align="centre">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vardhans07&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_color=2e3440" alt="GitHub Stats" />
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=vardhans07&theme=tokyonight&border=2e3440" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<div align="left">
+<div align="center">
   <!-- Excludes bloated markup files (HTML/CSS) so Python and core backend/scripting languages take prominence -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhans07&layout=compact&theme=tokyonight&border_color=2e3440&hide=html,css" alt="Top Languages" />
 </div>
