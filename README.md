@@ -61,6 +61,7 @@
 
 | Project | Pull Request | Impact / Focus | Status |
 | :--- | :--- | :--- | :--- |
+| **PrismorSec/prismor** | [#202](https://github.com/ayghri/i-have-adhd/pull/213) docs: remove unpinned npm install example to avoid supply-chain warnings | `documentation` `security-related` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | **PrismorSec/prismor** | [#500](https://github.com/PrismorSec/prismor/pull/500) perf: remote policy is signature-verified and parsed ~9× per hook call | `Performance` `Enterprise` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | **PrismorSec/prismor** | [#460](https://github.com/PrismorSec/prismor/pull/460) Prevent shell injection in secret substitution | `Security` `Fix` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
 | **PrismorSec/prismor** | [#458](https://github.com/PrismorSec/prismor/pull/458) Redact upstream HTTP 4xx/5xx error bodies | `Security` `Proxy` | ![](https://img.shields.io/badge/Merged-8957e5?style=flat-square&logo=git&logoColor=white) |
