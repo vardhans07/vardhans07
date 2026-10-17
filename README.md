@@ -87,9 +87,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vardhans07&layout=compact&theme=tokyonight&border_color=2e3440&hide=typescript,javascript,html,css,procfile" alt="Top Languages" />
 </p>
 
-
-### 🐍 Profile in Motion
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vardhans07/vardhans07/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/vardhans07/vardhans07/output/github-contribution-grid-snake.svg">
